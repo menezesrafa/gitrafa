@@ -15,10 +15,10 @@ Moro em Santo André-SP
 
 ## Atualmente estudando
 
-- Javascript
+- Javascript e Typescript
 - React
-- Node.js
 - Angular
+- Node.js
 
 ## Contatos
 
