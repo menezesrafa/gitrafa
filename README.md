@@ -16,6 +16,7 @@ Moro em Santo André-SP
 ## Atualmente estudando
 
 - Javascript
+- React
 - Node.js
 - Angular
 
